@@ -1,0 +1,21 @@
+[submodule "chef/cookbooks/apache2"]
+	path = chef/cookbooks/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "chef/cookbooks/mysql"]
+	path = chef/cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "chef/cookbooks/php"]
+	path = chef/cookbooks/php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "chef/cookbooks/apt"]
+	path = chef/cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "chef/cookbooks/git"]
+	path = chef/cookbooks/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "chef/cookbooks/imagemagick"]
+	path = chef/cookbooks/imagemagick
+	url = https://github.com/opscode-cookbooks/imagemagick.git
+[submodule "chef/cookbooks/openssl"]
+	path = chef/cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
